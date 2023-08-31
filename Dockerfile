@@ -1,6 +1,6 @@
 # Build stage
 
-FROM node:16
+FROM node:16.20.2-bookworm
 
 WORKDIR /src
 
