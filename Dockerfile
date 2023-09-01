@@ -1,6 +1,6 @@
 # Build stage
 
-FROM node:16
+FROM node:18.16.1-slim
 
 WORKDIR /src
 
